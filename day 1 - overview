@@ -1,0 +1,53 @@
+          ****Devops****
+SDLC -->waterfall model -
+      -->agile model- it includes feedback after production
+      -->DEVOPS
+      
+Software Developement Life cycle
+1) requirement analysis - line of business/manager
+2) DEsign - architecture
+Coding - DEvelopers
+Test - 
+Production -
+* idea amazon
+waterfall model ----> take 6  months of time
+
+for faster deployement
+
+DEPLOYMENT - Application  running on server or datacenter
+
+==> by end to end automation we can do deployment in minutes
+privious approch
+
+build tam - (2 days)
+test team - (2 days)
+production - (3 days)
+
+in waterfall model BUild team has no automation tool so tey take more time.
+
+==> by end to end automation 
+
+developer pushed --> build --> test --> mail
+
+* benefit - no manual in tervention , we dont need to wait for anyone
+this type of end to end automation called continuos intergration 
+
+                            DEV-OPS
+    development team                                              operational team
+    
+    architects                                                    release engineer
+    testers                                                       linux admin
+    developers                                                    system admin
+    build team                                                    database admin
+    
+    they don't bother about stability,availability                dont bother about code.
+                                                                  bother about the uptime,availability.
+                                                                  
+                                                                  
+                                                                  
+   
+                                                                  
+    
+    
+
+
